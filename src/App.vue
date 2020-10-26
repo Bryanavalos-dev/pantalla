@@ -28,7 +28,12 @@
           </div>
       </div>
       <div class=" inline border-solid border-1  bg-gray-200">
-        
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+
       </div>
       
       <div class=" inline border-solid border-2  bg-white p-2 ">
